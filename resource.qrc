@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/RemotelyOperatedWaterSampler.png</file>
+        <file>images/connected.png</file>
+        <file>images/disconnected.png</file>
+    </qresource>
+</RCC>
